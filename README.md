@@ -1,3 +1,7 @@
+Follow the instructions to install this project locally
+The project isn't (yet) responsive
+This project was build by following GreatStack videos
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
