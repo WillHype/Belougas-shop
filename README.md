@@ -1,5 +1,5 @@
 ## Follow the instructions to install this project locally
-###   The project isn't (yet) responsive
+###   The project isn't (yet) responsive and still in progress (currently on responsive + backend implementation)
 ###   This project was build by following GreatStack videos
 
 # Getting Started with Create React App
