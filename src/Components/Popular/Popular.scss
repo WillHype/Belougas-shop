@@ -71,7 +71,7 @@
 
 @media (max-width:800px) {
     .popular{
-        height: 55vh;
+        height: 50vh;
 
         h1{
             font-size: 20px;
@@ -87,6 +87,17 @@
 }
 
 @media (max-width:500px) {
+    .popular{
+
+        .popular-item{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            align-items: inherit;
+        }
+    }
+}
+@media (max-width:360px) {
     .popular{
 
         .popular-item{
