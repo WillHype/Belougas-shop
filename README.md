@@ -1,3 +1,8 @@
+Site e-commerce créé en utilisant REACT JS, entièrement responsive
+
+Les fonctionnalités backend sont en cours de création
+
+
 ## Follow the instructions to install this project locally
 ###   The project isn't (yet) responsive and still in progress (currently on responsive + backend implementation)
 ###   This project was build by following GreatStack videos
